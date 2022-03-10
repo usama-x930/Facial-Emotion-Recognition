@@ -14,7 +14,7 @@ The FER2013 dataset is provided for a competition of Kaggle. The dataset contain
 
 <p align="center">
   <img src="Res/happy.jpg" width="250" title="hover text">
- <img src="Res/neut.jpg" width="300" title="hover text">
+ <img src="Res/neut.jpg" width="290" title="hover text">
  <img src="Res/sad.jpg" width="250" title="hover text">
  <img src="Res/sur.jpg" width="350" title="hover text">
 </p>
